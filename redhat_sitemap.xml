@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://access.redhat.com/management/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-enterprise-linux/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-openshift-container-platform</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-ansible-automation-platform/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/package-browser</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/product-life-cycles/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/articles/1202803</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/errata/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/labs/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/search/?q=*&amp;p=1&amp;rows=10&amp;documentKind=Solution</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/search/?q=*&amp;p=1&amp;rows=10&amp;documentKind=Article</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en/red_hat_enterprise_linux</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en/openshift_container_platform</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en/red_hat_ansible_automation_platform</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/security/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/security/security-updates/#/security-advisories</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/security/security-updates/#/cve</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/security/vulnerabilities</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/security/data</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/security/security-updates/#/security-labs</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/security/updates/backporting/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/cases/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/cases/#/troubleshoot</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/contact/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/community</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/community/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/discussions/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/announcements/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/accelerators/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/cases/#/troubleshoot</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/changeLanguage?language=en</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/changeLanguage?language=ko</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/changeLanguage?language=ja</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/changeLanguage?language=zh_CN</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/login</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/start</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/documentation/en-us/openshift_container_platform/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/documentation/en-us/red_hat_openshift_service_on_aws/4</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/documentation/en-us/red_hat_openshift_ai/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/products</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/contact/technicalSupport/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/contact/customerService/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/security/team/contact/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/contact/Sales/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/cases/#/case/list?query=status:%20("Waiting%20on%20Customer"%20"Waiting%20on%20Red%20Hat")%20orderBy%20lastModifiedDate%20desc</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/cases/#/case/list?query=status:%20("Waiting%20on%20Customer")%20orderBy%20lastModifiedDate%20desc</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/cases/#/case/list?query=status:%20(%22Closed%22)%20orderBy%20lastModifiedDate%20desc</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/support/cases</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/start/how-to-engage-red-hat-support#/</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/management/subscriptions?type=active</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/management/subscriptions?type=expired</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/management/subscriptions?type=renewable</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/management/subscriptions</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/products/red-hat-insights</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/cases/#/case/new/open-case?caseCreate=true</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/announcements</loc>
+</url>
+<url>
+  <loc>http://access.redhat.com/community</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/customer-service</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/articles/33844</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/help/login_assistance</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/recognition/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/help/colophon/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/subscription-value</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/rhel</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-enterprise-linux</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-insights#getstarted</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-insights/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-virtualization#getstarted</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-virtualization/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/identity-management#getstarted</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/200/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-directory-server</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/216/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-certificate-system</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/250/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-satellite</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-update-infrastructure#getstarted</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-update-infrastructure/get-started</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-update-infrastructure</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/201/ver=1/rhel---7/3.8/x86_64/product-software</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/480/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/394/ver=1/rhel---7/1/x86_64/product-software</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/665</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-advanced-cluster-security-for-kubernetes/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/167/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-cloudforms/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en-us/red_hat_developer_hub/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/191/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-openstack-platform/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-openstack-platform#get-started</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/290/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-openshift-container-platform/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-quay/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/281/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-ceph-storage/overview</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/547/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-openshift-data-foundation</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/186/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-storage/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/415/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-hyperconverged-infrastructure</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=catRhoar.eclipse.vertx&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/eclipse-vertx</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en-us/red_hat_build_of_eclipse_vert.x/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/nodejs</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en-us/red_hat_build_of_node.js/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=core.service.openjdk&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/openjdk</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en-us/openjdk</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=redhat.quarkus</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/quarkus</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en-us/red_hat_build_of_quarkus/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=catRhoar.thorntail&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/thorntail</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en-us/red_hat_build_of_thorntail/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=data.grid&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-data-grid/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=developerstudio</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-developer-studio/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=appplatform&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-enterprise-application-platform/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=em&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-operations-network/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=jbportal&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-portal/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=soaplatform&amp;productChanged=yes</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-soa-platform</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=webserver&amp;productChanged=yes</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-web-server/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=rhbk&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-build-of-keycloak/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=core.service.rhsso</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-single-sign-on</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=catRhoar.spring.boot&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/spring-boot</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/documentation/en-us/red_hat_support_for_spring_boot/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=jboss.amq.broker</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-amq/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=jboss.amq.clients&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=jboss.amq.interconnect</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-amq#interconnect</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=jboss.amq.online</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=jboss.amq.streams</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-amq-streams/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=rhboac&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=rhbop&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=rhbod&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=rhdm&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-decision-manager</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/239/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-enterprise-mrg-messaging/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/259/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-enterprise-mrg-grid/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/172/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-enterprise-mrg-realtime</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=jboss.fuse&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-fuse/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=red.hat.integration&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-integration/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=data.services.platform&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-data-virtualization/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=jboss.fuse.serviceworks&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-fuse-service-works/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=rhpam&amp;downloadType=distributions</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-process-automation-manager/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/316/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-mobile-application-platform/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/products/red-hat-enterprise-linux/evaluation</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/150/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=jboss.fuse.serviceworks&amp;version=6.2.0&amp;productChanged=yes</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=jbportal&amp;productChanged=yes</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;product=web.framework.kit</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/products/red-hat-jboss-web-framework-kit</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/downloads/content/310/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/articles/subscription-faq</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/site/articles/1377933</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/errata/#/</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/containers</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/help/markdown</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/cases/list</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/support/cases/new</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/articles/313583</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/articles/255443</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/search/#/knowledgebase</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/search/#/documentation</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/labs/#?type=config</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/labs/#?type=deploy</loc>
+</url>
+<url>
+  <loc>https://access.redhat.com/labs/#?type=troubleshoot</loc>
+</url>
+</urlset>
